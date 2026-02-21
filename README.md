@@ -1,0 +1,1 @@
+This repository contains files regarding ai workshops course based on CHEMBL database. The course is designed to provide an introduction to artificial intelligence (AI) and its applications in the field of chemistry, specifically using the CHEMBL database as a resource for data analysis and machine learning.
